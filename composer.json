@@ -1,0 +1,13 @@
+{
+    "name": "miloshavlicek/img-analyzer",
+    "description": "Image Analyzer",
+    "type": "library",
+    "license": ["MIT"],
+    "require": {
+        "php": ">=7.1",
+        "nette/utils": ">=2.4.8"
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
